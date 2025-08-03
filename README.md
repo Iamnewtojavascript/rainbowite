@@ -1,4 +1,7 @@
-# rainbowite**** – Version 1.0 (Forge 1.18.1)
+# rainbowite**** – Version X.X**(Forge 1.18.1)
+
+**applies to all updates of the mod
+
 ****the .jar and what the mod is named after download are differant
 
 
