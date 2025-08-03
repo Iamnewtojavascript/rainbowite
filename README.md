@@ -20,11 +20,7 @@
 ## 🚀 Roadmap
 - If this version gets enough downloads and support:
   - A **Version 2.0 `.jar`** will be released for free
-  - **Source code** will be made available for purchase
+  - **Source code** will be made available for download in later updates
 
-## 🚫 License & Usage
-This mod is released under a custom **All Rights Reserved** license.  
-- You may use it for personal gameplay.
-- Redistribution, modification, or commercial use is prohibited without permission.
 
 If you like the mod, star the repo and share it with your friends. Bugs and ideas welcome via Issues!
