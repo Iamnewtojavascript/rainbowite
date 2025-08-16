@@ -19,8 +19,9 @@
 
 ## 🚀 Roadmap
 - If this version gets enough downloads and support:
-  - A **Version 2.0 `.jar`** will be released for free
-  - **Source code** will be made available for download in later updates
+  - A **Version 2.0 `.jar`** will be released sometime in 2025-2026 
+  - **Source code** if you want it unjar the file and put it into Intellij by jetbrains.
+  - do not put into any other ide or the build scripts and other files will become a huge mess
 
 
 If you like the mod, star the repo and share it with your friends. Bugs and ideas welcome via Issues!
